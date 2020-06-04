@@ -5,7 +5,7 @@ import lombok.Data;
 /**
  * @projectname:community
  * @classname:GithubUser
- * @description:TODO
+ * @description:
  * @auhtor: sunxc
  * @date: 2019/12/26-14:52
  * @version: 1.0

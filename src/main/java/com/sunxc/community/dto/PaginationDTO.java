@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * @projectname:community
  * @classname:PaginationDTO
- * @description:TODO
+ * @description:PaginationDTO
  * @auhtor: sunxc
  * @date: 2019/12/30-17:41
  * @version: 1.0

@@ -5,7 +5,7 @@ import lombok.Data;
 /**
  * @projectname:community
  * @classname:AccessTokenDTO
- * @description:TODO
+ * @description:
  * @auhtor: sunxc
  * @date: 2019/12/26-14:00
  * @version: 1.0
